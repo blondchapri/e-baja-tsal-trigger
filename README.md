@@ -1,4 +1,4 @@
-<img width="964" height="734" alt="image" src="https://github.com/user-attachments/assets/7928e33c-7910-45d7-ab87-d9a7462f3007" />  <br> 
+<img width="964" height="734" alt="image" src="https://github.com/user-attachments/assets/7928e33c-7910-45d7-ab87-d9a7462f3007" />  <BR/>
 # e-baja-tsal-trigger 
                                                                                               
 i independent system to trigger the tsal light on the top of the buggy with onboard power as required by the rule book
